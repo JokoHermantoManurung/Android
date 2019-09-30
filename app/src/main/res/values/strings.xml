@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SepatuAdidas</string>
+    <string name="nama">Joko H Manurung</string>
+    <string name="email">jokomanurung6@gmail.com</string>
+    <string name="about">About</string>
+    <string name="namasepatu">Nama Sepatu : </string>
+    <string name="hargasepatu">Harga Sepatu : </string>
+    <string name="desc">Deskripsi Sepatu : </string>
+</resources>
